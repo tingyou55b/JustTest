@@ -6,4 +6,5 @@ function myFirstFun() {
     console.log('cat cat');
     console.log('cat cat cat');
     console.log('cats');
+    console.log('white cat');
 }
