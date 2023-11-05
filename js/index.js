@@ -8,4 +8,5 @@ function myFirstFun() {
     console.log('cats');
     console.log('white cat');
     console.log('black cat');
+    console.log('blue cat');
 }
