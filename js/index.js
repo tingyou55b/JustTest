@@ -5,4 +5,5 @@ function myFirstFun() {
     console.log('main');
     console.log('cat cat');
     console.log('cat cat cat');
+    console.log('cats');
 }
