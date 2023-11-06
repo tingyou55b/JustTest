@@ -11,4 +11,5 @@ function myFirstFun() {
     console.log('blue cat');
     console.log('black dog');
     console.log('white dog');
+    console.log('puppy');
 }
