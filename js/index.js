@@ -9,6 +9,4 @@ function myFirstFun() {
     console.log('white cat');
     console.log('black cat');
     console.log('blue cat');
-    console.log('black dog');
-    console.log('white dog');
 }
