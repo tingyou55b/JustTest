@@ -13,4 +13,5 @@ function myFirstFun() {
     console.log('white dog');
     console.log('puppy');
     console.log('hello kitty');
+    console.log('hello 11/13');
 }
